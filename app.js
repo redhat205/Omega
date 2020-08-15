@@ -3,16 +3,25 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+ 
+  const firebaseConfig = {
+  apiKey: "AIzaSyAgPLXb2dlfpxAmkImlH0cmdExLRGoUBC0",
+  authDomain: "project-nani-ec5df.firebaseapp.com",
+  databaseURL: "https://project-nani-ec5df.firebaseio.com",
+  projectId: "project-nani-ec5df",
+  storageBucket: "project-nani-ec5df.appspot.com",
+  messagingSenderId: "388534011201",
+  appId: "1:388534011201:web:da6b3560184856aa94cdc0",
+  measurementId: "G-SETLWQ5TYM"
 };
+  
+  
+ 
+
+  
+
+
+
 
      
  
